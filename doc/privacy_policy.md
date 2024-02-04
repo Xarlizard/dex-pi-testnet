@@ -1,0 +1,1 @@
+Here goes the PrivacyPolicy text. TODO for mainnet deployement
